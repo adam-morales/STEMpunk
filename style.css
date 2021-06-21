@@ -1,0 +1,35 @@
+body {
+	margin: 0;
+}
+
+.main_nav {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	background-color: black;
+	height: 100px;
+	padding-right: 20px;
+	opacity: 1;
+}
+
+.btn {
+	border-radius: 100px;
+	padding: .5rem 1rem;
+	background-color: blue;
+	color: white;
+}
+
+.center_left {
+	height: 400px;
+	width: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.logo {
+	height: auto;
+	width: 400px;
+	text-align: center;
+}
